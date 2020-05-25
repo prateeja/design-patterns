@@ -1,0 +1,10 @@
+.classpath
+.project
+.settings/
+/target/
+*/target/**
+**/META-INF/
+structural-design-patterns/*/target
+creational-design-patterns/*/target
+behavioral-design-patterns/*/target
+

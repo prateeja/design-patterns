@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.designpatterns</groupId>
+    <artifactId>design-patterns</artifactId>
+    <version>1.0-SNAPSHOT</version>
+  </parent>
+  <groupId>com.designpatterns.behavioral</groupId>
+  <artifactId>behavioral-design-patterns</artifactId>
+  <packaging>pom</packaging>
+  <version>1.0-SNAPSHOT</version>
+  <name>behavioral-design-patterns</name>
+  <url>http://maven.apache.org</url>
+  <modules>
+    <module>chainofresponsibility-design-pattern</module>
+    <module>command-design-pattern</module>
+    <module>interpreter-design-pattern</module>
+    <module>iterator-design-pattern</module>
+    <module>mediator-design-pattern</module>
+    <module>memento-design-pattern</module>
+    <module>nullobject-design-pattern</module>
+    <module>observer-design-pattern</module>
+    <module>state-design-pattern</module>
+    <module>strategy-design-pattern</module>
+    <module>templatemethod-design-pattern</module>
+    <module>visitor-design-pattern</module>      
+  </modules>
+</project>
